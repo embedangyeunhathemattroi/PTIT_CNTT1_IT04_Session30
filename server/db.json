@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "an",
+      "email": "an@gmail.com",
+      "age": 18,
+      "password": 123
+    },
+    {
+      "id": 2,
+      "name": "lan",
+      "email": "lan@gmail.com",
+      "age": 19,
+      "password": 456
+    },
+    {
+      "id": 3,
+      "name": "man",
+      "email": "man@gmail.com",
+      "age": 20,
+      "password": 678
+    }
+  ],
+  "todolist": [
+    {
+      "id": 1,
+      "task": "Quet nha",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "giat quan ao",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "task": "nau com",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "task": "nấu",
+      "completed": false
+    }
+  ]
+}
